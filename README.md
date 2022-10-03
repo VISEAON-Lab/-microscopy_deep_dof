@@ -6,7 +6,7 @@ The implementation is based on the paper "Scale-recurrent Network for Deep Image
 ## Installation
 ### Download the repository
 ```bash
-git clone https://github.com/VISEAONLab/microscopy_deep_dof
+git clone https://github.com/VISEAON-Lab/microscopy_deep_dof.git
 cd microscopy_deep_dof/
 ```
 
